@@ -1,0 +1,43 @@
+.azul{
+    background-color: blue;
+    padding:50px;
+    width:360px;
+}
+.amarelo{
+    background-color: yellow;
+    padding:50px;
+    margin: 10px;
+}
+.amarelo_intruso{
+    background-color: yellow;
+    padding:50px;
+    margin: 10px;
+    width: 360px;
+}
+.tamanho{
+    padding-top:120px;
+}
+
+.tamanho_menor{
+    padding-top:60px;
+}
+.flex{
+    display:flex;
+}
+
+.tamanho_aumenta{
+    padding-top:120px;
+}
+.amarelo1{
+  padding-top: 120px;
+
+}
+
+.alonga{
+    padding-top:120px;
+}
+
+.margem1{
+    margin-bottom:20px;
+}
+
